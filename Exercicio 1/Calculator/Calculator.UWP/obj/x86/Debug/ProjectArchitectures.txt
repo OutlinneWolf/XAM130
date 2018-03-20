@@ -1,0 +1,2 @@
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM130\Exercicio 1\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
+C:\Users\Eu\Desktop\XaMarin\XPCP\XAM130\Exercicio 1\Calculator\Calculator\Calculator.csproj;neutral
